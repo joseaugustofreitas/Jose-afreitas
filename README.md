@@ -3,7 +3,8 @@
 Meu nome é José Augusto.
 
 
-<a href="https://app.rocketseat.com.br/me/jose-augusto"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=jose-augusto&type=card" width="280" alt="Jose Augusto's Rocket ID"/></a>
+<a href="https://app.rocketseat.com.br/me/jose-augusto">
+<img src="https://app.rocketseat.com.br/api/rocketid/share?slug=jose-augusto&type=card" width="280" alt="Jose Augusto's Rocket ID"/></a>
 
 
 <!--
